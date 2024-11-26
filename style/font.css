@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'B-Yekan';
+    src: url(../fonts/BYekan.ttf) format("truetype");
+}
+@font-face {
+    font-family: Yekan-Plus;
+    src: url(../fonts/YEKANplus.TTF) format(truetype);
+}
+@font-face {
+    font-family: poppinss;
+    src: url(../fonts/PoppinsLatin-Medium.otf) format(opentype);
+}
